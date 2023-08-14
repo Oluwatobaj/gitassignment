@@ -1,0 +1,21 @@
+body{background-color: bisque;
+
+}
+.space {background-color: rgb(99, 206, 29);
+    height: 100px;
+    width: 100px;
+    border-radius: 110px;
+    border: solid 5px red;
+}
+.omay{
+    border: 5px rgb(189, 33, 33);
+    padding: 30px 20px;
+    margin: 40px 30px;
+}
+
+.content{
+    border: 5px dashed  blueviolet;
+    padding: 20px;
+
+
+}
